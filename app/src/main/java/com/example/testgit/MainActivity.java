@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("sit a");
         System.out.println("sit b");
-
         System.out.println("uat a");
         System.out.println("uat c");
     }
